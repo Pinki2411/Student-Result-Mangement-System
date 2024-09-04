@@ -80,7 +80,7 @@ var students = [
   
   function newStudent() {
     Swal.fire({
-      title: 'Enter Student Details and Mark',
+      title: 'Enter Student Details and Marks',
       html:
         '<input id="swal-input1" class="swal2-input" placeholder="Name">' +
         '<input id="swal-input2" class="swal2-input" placeholder="Roll Number">' +
